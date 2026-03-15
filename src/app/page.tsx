@@ -48,7 +48,7 @@ export default function LandingPage() {
             { text: "Zobacz usługi", href: "#services" }
           ]}
           buttonAnimation="slide-up"
-          imageSrc="http://img.b2bpic.net/free-photo/close-up-beautiful-female-upper-part-face-young-brunette-girl-hiding-her-nose-mouth-red-flowers-pretty-lady-with-bright-make-up-holding-roses-concept-cosmetics-advertising_132075-12464.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/close-up-beautiful-female-upper-part-face-young-brunette-girl-hiding-her-nose-mouth-red-flowers-pretty-lady-with-bright-make-up-holding-roses-concept-cosmetics-advertising_132075-12464.jpg?_wi=1"
           imageAlt="Profesjonalna stylizacja rzęs"
           mediaAnimation="slide-up"
           ariaLabel="Hero section - Piękne rzęsy"
@@ -127,13 +127,13 @@ export default function LandingPage() {
           gridVariant="three-columns-all-equal-width"
           members={[
             {
-              id: "verchita",              name: "Verchita",              role: "Stylistka rzęs i właścicielka",              description: "Specjalistka w przedłużaniu i stylizacji rzęs. Pasjonata piękna z certyfikatami międzynarodowymi. Każdy zabieg to sztuka.",              imageSrc: "http://img.b2bpic.net/free-photo/luxury-retro-wall-lamp-cafe_1150-10890.jpg",              imageAlt: "Salon Ilashyou"
+              id: "verchita",              name: "Verchita",              role: "Stylistka rzęs i właścicielka",              description: "Specjalistka w przedłużaniu i stylizacji rzęs. Pasjonata piękna z certyfikatami międzynarodowymi. Każdy zabieg to sztuka.",              imageSrc: "http://img.b2bpic.net/free-photo/luxury-retro-wall-lamp-cafe_1150-10890.jpg?_wi=1",              imageAlt: "Salon Ilashyou"
             },
             {
-              id: "stylist-2",              name: "Anna",              role: "Stylistka rzęs",              description: "Profesjonalistka z 5-letnim doświadczeniem. Specjalizuje się w kreatywnych stylach. Zawsze uśmiechnięta i pełna energii.",              imageSrc: "http://img.b2bpic.net/free-photo/view-scissors-hair-salon_23-2150462460.jpg",              imageAlt: "Salon Ilashyou"
+              id: "stylist-2",              name: "Anna",              role: "Stylistka rzęs",              description: "Profesjonalistka z 5-letnim doświadczeniem. Specjalizuje się w kreatywnych stylach. Zawsze uśmiechnięta i pełna energii.",              imageSrc: "http://img.b2bpic.net/free-photo/view-scissors-hair-salon_23-2150462460.jpg?_wi=1",              imageAlt: "Salon Ilashyou"
             },
             {
-              id: "stylist-3",              name: "Magdalena",              role: "Stylizacja brwi i pielęgnacja",              description: "Ekspertka w modelowaniu brwi. Tworzy piękne kształty dla każdej twarzy. Zamiłowana w szczegółach.",              imageSrc: "http://img.b2bpic.net/free-photo/close-up-beautiful-female-upper-part-face-young-brunette-girl-hiding-her-nose-mouth-red-flowers-pretty-lady-with-bright-make-up-holding-roses-concept-cosmetics-advertising_132075-12464.jpg",              imageAlt: "Salon Ilashyou"
+              id: "stylist-3",              name: "Magdalena",              role: "Stylizacja brwi i pielęgnacja",              description: "Ekspertka w modelowaniu brwi. Tworzy piękne kształty dla każdej twarzy. Zamiłowana w szczegółach.",              imageSrc: "http://img.b2bpic.net/free-photo/close-up-beautiful-female-upper-part-face-young-brunette-girl-hiding-her-nose-mouth-red-flowers-pretty-lady-with-bright-make-up-holding-roses-concept-cosmetics-advertising_132075-12464.jpg?_wi=2",              imageAlt: "Salon Ilashyou"
             }
           ]}
         />
@@ -159,7 +159,7 @@ export default function LandingPage() {
         <ContactSplitForm
           title="Umów wizytę"
           description="Skontaktuj się z nami i zarezerwuj swój termin. Odpowiemy na wszystkie Twoje pytania."
-          imageSrc="http://img.b2bpic.net/free-photo/luxury-retro-wall-lamp-cafe_1150-10890.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/luxury-retro-wall-lamp-cafe_1150-10890.jpg?_wi=2"
           imageAlt="Salon Ilashyou"
           mediaAnimation="slide-up"
           mediaPosition="right"
@@ -175,7 +175,7 @@ export default function LandingPage() {
 
       <div id="footer" data-section="footer">
         <FooterMedia
-          imageSrc="http://img.b2bpic.net/free-photo/view-scissors-hair-salon_23-2150462460.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/view-scissors-hair-salon_23-2150462460.jpg?_wi=2"
           imageAlt="Ilashyou by Verchita"
           logoText="Ilashyou by Verchita"
           copyrightText="© 2025 Ilashyou by Verchita. Wszelkie prawa zastrzeżone."
